@@ -1,7 +1,3 @@
-# Wanna clone & deploy on EC2 Amazon Linux?
-I simplified process
-
-```markdown
 # Wanna Clone & Deploy on EC2 Amazon Linux?
 
 I simplified the process of deploying a Next.js application on an Amazon Linux EC2 instance. Follow the steps below to quickly set up your environment and get your application running.
